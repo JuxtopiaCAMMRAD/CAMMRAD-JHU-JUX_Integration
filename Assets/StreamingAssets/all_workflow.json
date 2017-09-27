@@ -1,0 +1,3355 @@
+{
+  "name": "Workflow1",
+  "type": "medic",
+  "tasks": [
+    {
+      "Version": 1.1,
+      "Name": "Initiate a Direct Line I.V.",
+      "dir_name": "IV",
+      "ResourcesPath": "initDirectLineIV/",
+      "steps": [
+        {
+          "Name": "",
+          "Version": 1.1,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 10
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "TASK: Initiate a Direct Line I.V. ",
+            "Icon": "3.png"
+          }
+        },
+        {
+          "Name": "Spike IV Bag and Prepare IV Tubing",
+          "Version": 1.1,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 10
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "",
+            "Icon": "3.png"
+          }
+        },
+        {
+          "Name": "Apply Constricting Band",
+          "Version": 1.1,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "point",
+              "Position": [
+                0,
+                0.4,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 10
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "Band should be placed 6-8 inches above venipuncture site.",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Text": "Choose the most distal and accessible vein of an uninjured arm or hand.",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Text": "Apply the constricting band tight enough to stop venous flow but not so tightly that the radial pulse cannot be felt.",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Text": "Tell the patient to open and close his fist several times to increase circulation.",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Text": "Avoid sites over joints and infected or injured areas",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Apply Constricting Band",
+            "Icon": "4.png"
+          }
+        },
+        {
+          "Name": "Cleanse Insertion Site with Alcohol Wipe",
+          "Version": 1.1,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "point",
+              "Position": [
+                0,
+                0.15,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 10
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "use a firm circular motion from the center outward",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Text": "allow the skin to dry",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Cleanse Insertion Site with Alcohol Wipe",
+            "Icon": "5.png"
+          }
+        },
+        {
+          "Name": "Hold Skin Taught Distal to Site of Veinipuncture",
+          "Version": 1.1,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "point",
+              "Position": [
+                0,
+                0.15,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 10
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "use your non-dominant hand to hold the skin",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Text": "Position yourself so as to have a direct line of vision along the axis of the vein to be  entered.",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Hold Skin Taught Distal to Site of Veinipuncture",
+            "Icon": "6.png"
+          }
+        },
+        {
+          "Name": "Hold needle at a 20-30 degree angle, bevel up, over top of the venipuncture site.",
+          "Version": 1.1,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "point",
+              "Position": [
+                0,
+                0.15,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 10
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": " Place the forefinger on the needle hub to guide it during insertion through the skin and into the vein",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Hold needle at a 20-30 degree angle, bevel up, over top of the venipuncture site.",
+            "Icon": "7.png"
+          }
+        },
+        {
+          "Name": "Pierce Skin, Advance Catheter UNTIL Blood Appears In Flash Chamber",
+          "Version": 1.1,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "point",
+              "Position": [
+                0,
+                0.15,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 10
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "Keep the needle at the same angle to prevent through-and-through penetration of the vein walls.",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Pierce Skin, Advance Catheter UNTIL Blood Appears In Flash Chamber",
+            "Icon": "8.png"
+          }
+        },
+        {
+          "Name": "Decrease Angle to 10-15 Degree and Advance 1/8th of and Inch",
+          "Version": 1.1,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 10
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Decrease Angle to 10-15 Degree and Advance 1/8th of and Inch",
+            "Icon": "9.png"
+          }
+        },
+        {
+          "Name": "Advance the Catheter Until Hub Touches Skin OR Significant Resistance Felt",
+          "Version": 1.1,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 10
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "While continuing to hold the hub, press lightly on the skin over the catheter tip with the fingers of the other hand.",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Text": "NOTE: This prevents the backflow of blood from the hub.",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Text": "Remove the needle from inside the catheter.",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Advance the Catheter Until Hub Touches Skin OR Significant Resistance Felt",
+            "Icon": "10.png"
+          }
+        },
+        {
+          "Name": "Release the Constricting Band with the Non-dominant Hand",
+          "Version": 1.1,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 10
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "Tell patient to unclench fist",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Release the Constricting Band with the Non-dominant Hand",
+            "Icon": "11.png"
+          }
+        },
+        {
+          "Name": "Occlude the Vein with the Non-dominant Hand",
+          "Version": 1.1,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 10
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Occlude the Vein with the Non-dominant Hand",
+            "Icon": "12.png"
+          }
+        },
+        {
+          "Name": "Remove the Needle and Place it in a Sharps Container",
+          "Version": 1.1,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 10
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Remove the Needle and Place it in a Sharps Container",
+            "Icon": "13.png"
+          }
+        },
+        {
+          "Name": "Connect IV Tubing, Place Strip of 1IN tape over Hub, and Initiate Flow of Fluids",
+          "Version": 1.1,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 10
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "NOTE: A rate of about 30 cc per hour, or 7 to 10 drops per minute using standard drip tubing, is adequate to keep the vein open.",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Connect IV Tubing, Place Strip of 1IN tape over Hub, and Initiate Flow of Fluids",
+            "Icon": "14.png"
+          }
+        },
+        {
+          "Name": "On Catheter - Place Strip of 1 inch tape over Cover with Transparent Dressing",
+          "Version": 1.1,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 10
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "On Catheter - Place Strip of 1 inch tape over Cover with Transparent Dressing",
+            "Icon": "15.png"
+          }
+        },
+        {
+          "Name": "Assess IV site for any Signs/Symptoms of Infiltration",
+          "Version": 1.1,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 10
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "Stop infusion immediatly if puncture sight is: red, cool to touch, swollen, or leaking",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Assess IV site for any Signs/Symptoms of Infiltration",
+            "Icon": "16.png"
+          }
+        },
+        {
+          "Name": "Secure IV Tubing to the Casualty",
+          "Version": 1.1,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 10
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Secure IV Tubing to the Casualty",
+            "Icon": "17.png"
+          }
+        }
+      ]
+    },
+    {
+      "dir_name": "PB",
+      "Version": 1.4,
+      "Name": "Place Pressure Bandage",
+      "ResourcesPath": "pressureBandage/",
+      "steps": [
+        {
+          "Name": "",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "../Workflow_Images/needleChestDecompression_Images/TrackedImg01",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 10
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "TASK: Pressure Bandage",
+            "Icon": "bla.jpg"
+          }
+        },
+        {
+          "Name": "",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "../Workflow_Images/needleChestDecompression_Images/TrackedImg01",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 10
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Take Body Substance Isolation",
+            "Icon": "bla.jpg"
+          }
+        },
+        {
+          "Name": "",
+          "Version": 1.1,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "../Workflow_Images/needleChestDecompression_Images/TrackedImg02",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "StepID": 1,
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 10
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                63,
+                72,
+                204
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Expose Wound",
+            "Icon": "step 2-100.png"
+          }
+        },
+        {
+          "Name": "",
+          "Version": 1.1,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "point",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ],
+              "MarkerName": ""
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "Gauze should extend 1-2 inches above the skin",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                63,
+                72,
+                204
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Pack Wound with Gauze",
+            "Icon": "step 3-100.png"
+          }
+        },
+        {
+          "Name": "",
+          "Version": 1.1,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "point",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ],
+              "MarkerName": ""
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "NOTE: Place WHITE portion down",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                63,
+                72,
+                204
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Cover Wound with Dressing",
+            "Icon": "step 4-100.png"
+          }
+        },
+        {
+          "Name": "",
+          "Version": 1.1,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "point",
+              "Position": [
+                -0.18,
+                -0.05,
+                0.01
+              ],
+              "AnimationPath": [],
+              "MarkerName": ""
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "Wrap with the Elastic Portion of the Bandage",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Wrap Bandage Around Extremity",
+            "Icon": "step 5-100.png"
+          }
+        },
+        {
+          "Name": "",
+          "Version": 1.1,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "point",
+              "Position": [
+                -0.18,
+                -0.05,
+                0.01
+              ],
+              "AnimationPath": [],
+              "MarkerName": ""
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Insert Elastic Wrap into Pressure Bar",
+            "Icon": "step 6-100.png"
+          }
+        },
+        {
+          "Name": "",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "point",
+              "Position": [
+                -0.18,
+                -0.05,
+                0.01
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "NOTE: At the same time bandage in the opposite direction",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Apply Pressure with Pressure Bar",
+            "Icon": "step 7-100.png"
+          }
+        },
+        {
+          "Names": "",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "point",
+              "Position": [
+                -0.18,
+                -0.05,
+                0.01
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "NOTE: Ensure ALL edges of of wound pad are COVERED",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1
+            }
+          ],
+          "Wheel": {
+            "Text": "Continue to Wrap Wound TIGHTLY",
+            "Icon": "step 8-100.png"
+          }
+        },
+        {
+          "Names": "",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": ""
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Secure the Closure Bar to the Bandage",
+            "Icon": "step 9-100.png"
+          }
+        },
+        {
+          "Names": "",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": ""
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "NOTE: do NOT remove from limb",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Loosen the Tourniquet",
+            "Icon": "step 10-100.png"
+          }
+        },
+        {
+          "Names": "",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": ""
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "Controlled Bleeding: Secure Bandage with Tape",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Text": "Bleeding Reoccurs (1): Retighten tourniquet until bleeding stops and Radial Pulse ABSENT",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Text": "Bleeding Reoccurs (2): Secure bandage with tape",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Check Bleeding: Controlled or Reoccurs",
+            "Icon": "step 11-100.png"
+          }
+        }
+      ]
+    },
+    {
+      "dir_name": "SC",
+      "Version": 1.4,
+      "Name": "Surgical Cricothyrotomy",
+      "ResourcesPath": "surgicalCricothyroidtomy/",
+      "steps": [
+        {
+          "Name": "TAS:",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "../Workflow_Images/needleChestDecompression_Images/TrackedImg01",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Scale": 1,
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 10
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "TASK: Surgical Cricothyrotomy",
+            "Icon": "bla.jpg"
+          }
+        },
+        {
+          "Name": "Take Body Substance Isolation",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "../Workflow_Images/needleChestDecompression_Images/TrackedImg01",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Scale": 1,
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 10
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Take Body Substance",
+            "Icon": "bla.jpg"
+          }
+        },
+        {
+          "Name": "Hyperextend Neck",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "../Workflow_Images/needleChestDecompression_Images/TrackedImg01",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "Tilt the casualty's head back",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Identify the cricothyroid membrane between the cricoid and thyroid cartilages.",
+            "Icon": "step 2 white.png"
+          }
+        },
+        {
+          "Name": "",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "../Workflow_Images/needleChestDecompression_Images/TrackedImg01",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "Thyroid cartilage = Adam's apple, Largest distal lump",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Text": "Cricoid cartilage = Largest proximal lump",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Text": "Cricothyroid Membrane = depression between Thyroid and Cricoid cartilage",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Clean the site with alcohol wipe.",
+            "Icon": "step 3 white.png"
+          }
+        },
+        {
+          "Name": "",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "../Workflow_Images/needleChestDecompression_Images/TrackedImg01",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "confirm landmarks with non-dominant index finger",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                63,
+                72,
+                204
+              ]
+            },
+            {
+              "Text": "NOTE: do not remove non-dominate hand until tracheal hook is in place",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                63,
+                72,
+                204
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Stabilize the larynx with non-dominant hand using thumb and middle finger",
+            "Icon": "step 4 white.png"
+          }
+        },
+        {
+          "Name": "",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "../Workflow_Images/needleChestDecompression_Images/TrackedImg01",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "NOTE: Avoid areas around Larynx (red lines on left and right)",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                63,
+                72,
+                204
+              ]
+            },
+            {
+              "Text": "NOTE: Do NOT pierce the membrane with this cut, only cut skin ",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                63,
+                72,
+                204
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Make 1-inch VERTICAL Incision through skin over Cricothyroid Membrane",
+            "Icon": "step 5 white.png"
+          }
+        },
+        {
+          "Name": "",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "../Workflow_Images/needleChestDecompression_Images/TrackedImg01",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                63,
+                72,
+                204
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Reconfirm cricothyroid membrane with index finger",
+            "Icon": "step 6 white.png"
+          }
+        },
+        {
+          "Name": "",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": ""
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "Use Thumb and Middle Finger of non-dominat hand to Stabalize",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Text": "Use Index Finger of this hand to confirm landmark positions",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Text": "NOTE: Keep non-domaint hand in place UNITL hook is placed",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Turn scalpel horizontally and poke through the cricothyroid membrane. Make 1/2 inch incision.",
+            "Icon": "step 7 white.png"
+          }
+        },
+        {
+          "Name": "",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": ""
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Insert Hook and Elevate Cricoid Cartilage",
+            "Icon": "step 8 white.png"
+          }
+        },
+        {
+          "Name": "",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": ""
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "Remove Obstruction (if applicable)",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Text": "If an ETT, insert 1/4 - 1 inch beyond the cuff",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Insert the end of the tube fully into the trachea and direct towards the lungs. ",
+            "Icon": "step 9 white.png"
+          }
+        },
+        {
+          "Name": "",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": ""
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Inflate the cuff with 10 ml of air.",
+            "Icon": "step 10 white.png"
+          }
+        },
+        {
+          "Name": "",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": ""
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "Watch for equal rise and fall of chest to confim tube placement",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Ventilate the Casualty Twice with a BVM, Auscultate the Apex of RIGHT and LEFT lung",
+            "Icon": "step 11 white.png"
+          }
+        },
+        {
+          "Name": "",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": ""
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Assess casualty for spontaneous respirations. (must count for 10 seconds) and attach pulse oximeter to casualty.",
+            "Icon": "step 12 white.png"
+          }
+        },
+        {
+          "Name": "",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": ""
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "IF YES: ventilate casualty with a BVM, if no -- next step",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Ventilate casualty if: respirations <8 or >30, pulse oximeter <90%",
+            "Icon": "step 13-14 white.png"
+          }
+        },
+        {
+          "Name": "",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": ""
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Apply a Dressing around the Tube",
+            "Icon": "step 15 white.png"
+          }
+        },
+        {
+          "Name": "",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": ""
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Secure device to the casualty around casualty's neck with strap or tape.",
+            "Icon": "step 16 white.png"
+          }
+        }
+      ]
+    },
+    {
+      "dir_name": "Needle_Decompression",
+      "Version": 1.4,
+      "Name": "Needle Chest Decompression",
+      "ResourcesPath": "needleChestDecomp/",
+      "steps": [
+        {
+          "Name": "TASK: Needle Chest Decompression",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "../Workflow_Images/needleChestDecompression_Images/TrackedImg01",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.1,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 10
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "TASK: Needle Chest Decompression",
+            "Icon": "bla.jpg"
+          }
+        },
+        {
+          "Name": "View Anatomy and Get Needle Decompression Tools",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "../Workflow_Images/needleChestDecompression_Images/TrackedImg01",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.1,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 10
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Get Needle Decompression Tools",
+            "Icon": "bla.jpg"
+          }
+        },
+        {
+          "Name": "Ensure Condition is due to Progressive Respiratory Distress, Secondary to Torso Trauma",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.1,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 10
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Ensure Condition is due to Progressive Respiratory Distress, Secondary to Torso Trauma",
+            "Icon": "CAARSPM_SUNU_ND.jpg"
+          }
+        },
+        {
+          "Name": "Locate the Second Intercostal Space(SIS) - Prepare with Antiseptic Solution ",
+          "Version": 1.1,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "point",
+              "Position": [
+                0.12,
+                0.15,
+                -0.05
+              ],
+              "AnimationPath": [],
+              "MarkerName": ""
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0.12,
+                0.15,
+                -0.05
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "Approximately two finger widths below the clavicle ",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Text": "Between the second and third ribs -  at the midclavicular line ",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Text": "Approximately in line with the nipple - on the same side of the casualty’s chest as the injury.",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Locate the Second Intercostal Space(SIS) - Prepare with Antiseptic Solution ",
+            "Icon": "CAARSPM_SUNU_ND_Step1Sanitize.jpg"
+          }
+        },
+        {
+          "Name": "Firmly insert Needle and Catheter unit (3 1/4 inch - 14 gauge)  into the SIS",
+          "Version": 1.1,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "point",
+              "Position": [
+                0.12,
+                0.15,
+                -0.05
+              ],
+              "AnimationPath": [],
+              "MarkerName": ""
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "The needle-catheter unit should be at a 90 degree angle with respect to the chest wall",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Text": "Verifiy insertion - indicated by a \"pop\" or \"hiss\" as needle enters chest cavity",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Firmly insert Needle and Catheter unit (3 1/4 inch - 14 gauge)  into the SIS",
+            "Icon": "CAARSPM_SUNU_ND_Step2Needle.jpg"
+          }
+        },
+        {
+          "Name": "Remove Needle, Leaving the Catheter in Place",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "point",
+              "Position": [
+                0.12,
+                0.15,
+                -0.05
+              ],
+              "AnimationPath": [],
+              "MarkerName": "mannequin-intracostalspace"
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "NOTE: the casualty’s respiration should improve.",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                63,
+                72,
+                204
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Remove Needle, Leaving the Catheter in Place",
+            "Icon": "CAARSPM_SUNU_ND_Step2Needle.jpg"
+          }
+        },
+        {
+          "Name": "Secure the Catheter Hub to the Chest",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": ""
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Secure the Catheter Hub to the Chest",
+            "Icon": "CAARSPM_SUNU_ND_Step3Secure.jpg"
+          }
+        },
+        {
+          "Name": "Place the Casualty in a Sitting Position or Recovery Position with Injured Side Down",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": ""
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Place the Casualty in a Sitting Position or Recovery Position with Injured Side Down",
+            "Icon": "bla.jpg"
+          }
+        },
+        {
+          "Name": "Monitor the casualty until medical care arrives",
+          "Version": 1.2,
+          "Duration": 0,
+          "FeatureAnchoredObjects": [
+            {
+              "Image_Path": "",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "AnimationPath": [],
+              "MarkerName": ""
+            }
+          ],
+          "DisplayAnchoredImage": [
+            {
+              "Image_Path": "",
+              "Position": [
+                -0.001,
+                0,
+                0
+              ],
+              "AnimationPath": [
+                {
+                  "Position": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "Time": 5
+                }
+              ]
+            }
+          ],
+          "DisplayAnchoredText": [
+            {
+              "Text": "Check for reoccurrence of respiratory distress",
+              "Position": [
+                0,
+                0,
+                0
+              ],
+              "Scale": 1,
+              "BackgroundColor": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Wheel": {
+            "Text": "Monitor the casualty until medical care arrives",
+            "Icon": "CAARSPM_SUNU_ND_Step4Listen.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}
